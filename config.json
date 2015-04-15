@@ -1,0 +1,6 @@
+{
+  "token" : "please input your slack-api-token",
+  "from_mail_address" : "slack-log@mail.com",
+  "start_day" : -1,
+  "duration_day" : 1
+}
